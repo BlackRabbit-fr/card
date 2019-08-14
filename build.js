@@ -22,8 +22,9 @@ const data = {
   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("Morronight"),
   npm: chalk.gray("https://npmjs.com/") + chalk.red("~treveillard"),
   github: chalk.gray("https://github.com/") + chalk.green("BlackRabbit-fr"),
-  linkedin: chalk.gray("https://linkedin.com/fr/") + chalk.blue("treveillard"),
-  web: chalk.cyan("https://treveillard.fr"),
+  linkedin:
+    chalk.gray("https://linkedin.com/in/") + chalk.blue("theo-reveillard"),
+  web: chalk.cyan("https://trvd.fr"),
   npx: chalk.red("npx") + " " + chalk.white("npx treveillard"),
   labelWork: chalk.white.bold("       Work:"),
   labelOpenSource: chalk.white.bold("Open Source:"),
