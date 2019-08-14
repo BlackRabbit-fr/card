@@ -37,7 +37,9 @@
     "chalk": "^2.4.1",
     "standard": "^12.0.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "lodash": ">=4.17.13"
+  },
   "publishConfig": {
     "registry": "https://npm.registry.github.com/"
   }
